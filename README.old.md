@@ -4,7 +4,7 @@ A series of features that help tracking the inheritance relations and data-view 
 
 ### Milestones
 
-- [x] Work with Chrome extension
+- [ ] Work with Chrome extension
 - [ ] Detect usage of SuperGrid
 - [ ] Upgrade SuperGrid for tracing
 - [ ] Graph out Datasource relations
